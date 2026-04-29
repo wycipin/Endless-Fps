@@ -5,6 +5,6 @@ Made by Unity3D 2022.1.24f1.
 
 all the codes used in project will be shared here (unfortunately the full project wont be shared here).
 
-Developed by Love by Wycipin. <3
+Developed with Love by Wycipin. <3
 
 implementation tutorial will be available soon after all codes get fully completed. ^-^ 
